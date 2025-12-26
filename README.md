@@ -1,6 +1,2 @@
 # my-first-repo
 my-first-repo for practice
-testing 1...2...3...
-new update
-not working auto build
-new try
